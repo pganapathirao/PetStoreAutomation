@@ -1,0 +1,24 @@
+[INFO ] 2023-06-19 22:14:08.522 [main] UserTests - **************Creating User*******************
+[INFO ] 2023-06-19 22:14:10.228 [main] UserTests - **************User is created*******************
+[INFO ] 2023-06-19 22:14:10.229 [main] UserTests - **************Reading  User info*******************
+[INFO ] 2023-06-19 22:14:11.726 [main] UserTests - **************  User info displayed*******************
+[INFO ] 2023-06-19 22:14:11.728 [main] UserTests - **************  Updating User info *******************
+[INFO ] 2023-06-19 22:14:14.798 [main] UserTests - ************** User is updated User info *******************
+[INFO ] 2023-06-19 22:14:14.800 [main] UserTests - ************** Deleting User *******************
+[INFO ] 2023-06-19 22:14:16.232 [main] UserTests - ************** User is deleted *******************
+[INFO ] 2023-06-19 22:15:53.859 [main] UserTests - **************Creating User*******************
+[INFO ] 2023-06-19 22:15:55.491 [main] UserTests - **************User is created*******************
+[INFO ] 2023-06-19 22:15:55.492 [main] UserTests - **************Reading  User info*******************
+[INFO ] 2023-06-19 22:15:56.996 [main] UserTests - **************  User info displayed*******************
+[INFO ] 2023-06-19 22:15:56.999 [main] UserTests - **************  Updating User info *******************
+[INFO ] 2023-06-19 22:16:00.067 [main] UserTests - ************** User is updated User info *******************
+[INFO ] 2023-06-19 22:16:00.068 [main] UserTests - ************** Deleting User *******************
+[INFO ] 2023-06-19 22:16:01.608 [main] UserTests - ************** User is deleted *******************
+[INFO ] 2023-06-19 22:42:38.085 [main] UserTests - **************Creating User*******************
+[INFO ] 2023-06-19 22:42:39.912 [main] UserTests - **************User is created*******************
+[INFO ] 2023-06-19 22:42:39.913 [main] UserTests - **************Reading  User info*******************
+[INFO ] 2023-06-19 22:42:41.315 [main] UserTests - **************  User info displayed*******************
+[INFO ] 2023-06-19 22:42:41.316 [main] UserTests - **************  Updating User info *******************
+[INFO ] 2023-06-19 22:42:44.387 [main] UserTests - ************** User is updated User info *******************
+[INFO ] 2023-06-19 22:42:44.390 [main] UserTests - ************** Deleting User *******************
+[INFO ] 2023-06-19 22:42:45.822 [main] UserTests - ************** User is deleted *******************
